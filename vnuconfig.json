@@ -1,6 +1,7 @@
 {
 	"urls": [
-		"http://rotebeete.com"
+		"https://rotebeete.com",
+		"https://google.com"
 	],
 	"options": {
 		"also-check-css": true,
