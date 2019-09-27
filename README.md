@@ -10,7 +10,7 @@ vnu-html-validator uses a locally installed java file (vnu.jar) to run the same 
 The v.Nu configurations can be done in the vnuconfig.json and vnufilters.txt files.
 
 ### URLs
-List all URLs, which should be checked, in the urls-array.
+List all URLs for the validation in the urls-array.
 
 ### Options
 Change or add options to the options-object.
@@ -22,7 +22,7 @@ v.Nu Options and Filter Documentation:
 [The Nu Html Checker on GitHub](https://github.com/validator/validator)
 
 ## Notice
-You need a Java Development Kit (JDK) installed on your device, Java Runtime Environment (JRE) doesn't work in CLI.
+You need a Java Development Kit (JDK) installed on your device, Java Runtime Environment (JRE) doesn't work in the CLI.
 
 [Java SE Downloads Page](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
