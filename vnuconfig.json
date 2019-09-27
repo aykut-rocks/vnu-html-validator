@@ -1,0 +1,12 @@
+{
+	"urls": [
+		"http://rotebeete.com"
+	],
+	"options": {
+		"also-check-css": true,
+		"also-check-svg": true,
+		"errors-only": false,
+		"format": "text",
+		"filterfile": "./vnufilters.txt"
+	}
+}

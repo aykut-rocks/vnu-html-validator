@@ -1,0 +1,31 @@
+{
+  "name": "vnu-html-validator",
+  "version": "1.0.0",
+  "description": "Validate your HTML in the CLI without connecting to the online service.",
+  "keywords": [
+    "w3c",
+    "validator",
+    "v.Nu",
+    "Nu Html Checker"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sensoy, Aykut",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aykut-rocks/vnu-html-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aykut-rocks/vnu-html-validator/issues"
+  },
+  "homepage": "https://github.com/aykut-rocks/vnu-html-validator#readme",
+  "engines": {
+    "node": ">=10.14.1"
+  },
+  "dependencies": {
+    "vnu-jar": "^19.9.4"
+  }
+}
