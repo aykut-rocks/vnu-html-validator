@@ -19,10 +19,19 @@ Change or add options to the options-object.
 Filter error or warning messages.
 
 v.Nu Options and Filter Documentation:
+
 [The Nu Html Checker on GitHub](https://github.com/validator/validator)
+
+## Minimum Requirement
+- node.js 10
+- Java 8
 
 ## Notice
 You need a Java Development Kit (JDK) installed on your device, Java Runtime Environment (JRE) doesn't work in the CLI.
 
 [Java SE Downloads Page](https://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+## HowTo
+type in terminal:
+1. npm install
+2. node index.js
