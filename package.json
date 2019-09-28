@@ -1,6 +1,6 @@
 {
   "name": "vnu-html-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate your HTML, CSS and SVG in the CLI without connecting to an online service.",
   "keywords": [
     "w3c",
